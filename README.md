@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoMeneghelli&show_icons=true&theme=tokyonight)
 
-### Tecnologias que utiliso no meu dia 
+## Tecnologias que utiliso no meu dia 
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
@@ -15,7 +15,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Sou desenvolvedor Front-end apaixonado por esse universo, e novo no github
+Sou desenvolvedor Front-end apaixonado por esse universo, e novo no github.
 
 Uma mente que se abre a uma nova ideia, jamais voltará ao seu tamanho original.
 
